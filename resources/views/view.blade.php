@@ -7,7 +7,7 @@
     <title>View Data Mahasiswa</title>
     <style>
         table {
-            margin: 0px auto;
+            margin: 15px auto 0px;
             width: 80%;
             text-align: center;
             border: 1px solid black;
