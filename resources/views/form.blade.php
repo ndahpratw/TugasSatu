@@ -24,7 +24,7 @@
     </style>
 </head>
 <body>
-    <h1> Form Tambah Data Baru </h1>
+    <h1> Form Tambah Data Mahasiswa Baru </h1>
     <form action="/data-baru" method="POST">
         @csrf
         <div>
