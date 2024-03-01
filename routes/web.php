@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/', [MahasiswaController::class, 'view_data']);
+Route::get('/', [MahasiswaController::class, 'index']);
 
 Route::get('/new-mhs', function () {
     return view('form');
